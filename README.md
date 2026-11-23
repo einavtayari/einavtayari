@@ -39,5 +39,6 @@ These projects are private, and so are my repositories: they hold deeply persona
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Einav%20Tayari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/einavtayari/)
+[![Email](https://img.shields.io/badge/Email-chibittx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibittx@gmail.com)
 
 Always up for a conversation about AI enablement, AI agents and human-in-the-loop design.
