@@ -24,11 +24,11 @@ My professional world is learning and AI enablement: I help people and teams wor
 
 ## What I'm building
 
-The scope of my projects is wide and keeps changing. As a taste, here is a glimpse of a few I'm most proud of:
+The scope of my projects is wide and keeps changing. As a taste, here is a glimpse of a few I'm most proud of. Each one links to a showcase page with screens, an architecture diagram and the story behind it:
 
-- **Pulse.** A self-hosted fitness and nutrition app, with AI advisors that remember the process over time.
-- **Eevee.** A personal assistant on Telegram that grew into a deputy agent, with autonomy rules, quiet hours, server monitoring and backups.
-- **Voilà.** A French verb-conjugation practice app.
+- **[Pulse](https://github.com/einavtayari/pulse-showcase).** A self-hosted fitness and nutrition app, with AI advisors that remember the process over time.
+- **[Eevee](https://github.com/einavtayari/eevee-showcase).** A personal assistant on Telegram that grew into a deputy agent, with autonomy rules, quiet hours, server monitoring and backups.
+- **[Voilà](https://github.com/einavtayari/voila-showcase).** A French verb-conjugation practice app.
 
 And more in the making, including a personal styling app that is still at the design stage.
 
