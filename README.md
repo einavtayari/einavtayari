@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/einavtayari/">
-    <img src="banner.svg" alt="Einav Tayari: the human in the loop." width="100%">
+    <img src="banner.jpg" alt="Einav Tayari: the human in the loop." width="100%">
   </a>
 </p>
 
