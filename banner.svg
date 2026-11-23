@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396" role="img" aria-label="einav $ human-in-the-loop">
+  <title>einav $ human-in-the-loop</title>
+  <defs>
+    <g id="code" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 10 L4 18 L12 26 M24 10 L32 18 L24 26 M21 7 L15 29"/>
+    </g>
+    <g id="sparkle" fill="none" stroke-linejoin="round">
+      <path d="M18 3 L21.5 14.5 L33 18 L21.5 21.5 L18 33 L14.5 21.5 L3 18 L14.5 14.5 Z"/>
+    </g>
+    <g id="gear" fill="none" stroke-linecap="round">
+      <circle cx="18" cy="18" r="6"/>
+      <circle cx="18" cy="18" r="12" stroke-dasharray="5 4.4"/>
+    </g>
+    <g id="robot" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="5" y="11" width="26" height="19" rx="5"/>
+      <path d="M18 11 V5"/><circle cx="18" cy="4" r="2"/>
+      <circle cx="13" cy="20" r="2"/><circle cx="23" cy="20" r="2"/>
+      <path d="M2 18 V23 M34 18 V23"/>
+    </g>
+    <g id="bulb" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 24 C7 20 8 9 18 8 C28 9 29 20 24 24 C22.5 25.5 22 27 22 28 H14 C14 27 13.5 25.5 12 24 Z"/>
+      <path d="M14.5 31.5 H21.5"/>
+    </g>
+    <g id="chat" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M6 8 H30 A3 3 0 0 1 33 11 V23 A3 3 0 0 1 30 26 H16 L9 32 V26 H6 A3 3 0 0 1 3 23 V11 A3 3 0 0 1 6 8 Z"/>
+      <circle cx="12" cy="17" r="1.2"/><circle cx="18" cy="17" r="1.2"/><circle cx="24" cy="17" r="1.2"/>
+    </g>
+    <g id="pointer" fill="none" stroke-linejoin="round">
+      <path d="M8 5 L8 28 L14 22.5 L18.5 32 L23 30 L18.5 21 L27 21 Z"/>
+    </g>
+    <g id="nodes" fill="none" stroke-linecap="round">
+      <circle cx="7" cy="9" r="3.5"/><circle cx="29" cy="8" r="3.5"/><circle cx="18" cy="28" r="3.5"/>
+      <path d="M10 10 L26 9 M9 12 L16 25 M27 11 L20 25"/>
+    </g>
+    <g id="refresh" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M29 14 A12 12 0 0 0 8 11 M7 5 V12 H14"/>
+      <path d="M7 22 A12 12 0 0 0 28 25 M29 31 V24 H22"/>
+    </g>
+    <g id="braces" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M13 6 C9 6 9 9 9 12 C9 15 8 18 4 18 C8 18 9 21 9 24 C9 27 9 30 13 30"/>
+      <path d="M23 6 C27 6 27 9 27 12 C27 15 28 18 32 18 C28 18 27 21 27 24 C27 27 27 30 23 30"/>
+    </g>
+  </defs>
+
+  <rect width="1584" height="396" fill="#0c0c0e"/>
+
+  <g stroke="#3a3a41" stroke-width="2" opacity="0.95">
+    <use href="#code" x="64" y="34"/>
+    <use href="#sparkle" x="246" y="30"/>
+    <use href="#gear" x="410" y="42"/>
+    <use href="#robot" x="640" y="26"/>
+    <use href="#bulb" x="896" y="30"/>
+    <use href="#gear" x="1030" y="38"/>
+    <use href="#pointer" x="1190" y="34"/>
+    <use href="#refresh" x="1340" y="34"/>
+    <use href="#braces" x="1478" y="30"/>
+
+    <use href="#chat" x="46" y="176"/>
+    <use href="#nodes" x="1410" y="112"/>
+    <use href="#sparkle" x="1500" y="190"/>
+
+    <use href="#nodes" x="150" y="316"/>
+    <use href="#chat" x="330" y="322"/>
+    <use href="#code" x="520" y="318"/>
+    <use href="#sparkle" x="776" y="324"/>
+    <use href="#gear" x="960" y="320"/>
+    <use href="#bulb" x="1130" y="316"/>
+    <use href="#robot" x="1330" y="318"/>
+    <use href="#braces" x="1470" y="320"/>
+  </g>
+
+  <text x="792" y="226" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace" font-size="66" font-weight="500"><tspan fill="#a7d9bd">einav $ </tspan><tspan fill="#f3f3f1">human-in-the-loop</tspan><tspan fill="#8b8b90">&#9608;</tspan></text>
+</svg>
