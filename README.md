@@ -24,13 +24,14 @@ My professional world is learning and AI enablement: I help people and teams wor
 
 ## What I'm building
 
-The scope of my projects is wide and keeps changing. As a taste, here is a glimpse of a few I'm most proud of. Each one links to a showcase page with screens, an architecture diagram and the story behind it:
+The scope of my projects is wide and keeps changing. As a taste, here is a glimpse of a few I'm most proud of. Each one links to a showcase page with screens and the story behind it:
 
-- **[Pulse](https://github.com/einavtayari/pulse-showcase).** A self-hosted fitness and nutrition app, with AI advisors that remember the process over time.
+- **[Pulse](https://github.com/einavtayari/pulse-showcase).** Three AI advisors for nutrition and training, in one Telegram chat, working from my real numbers.
 - **[Eevee](https://github.com/einavtayari/eevee-showcase).** A personal assistant on Telegram that grew into a deputy agent, with autonomy rules, quiet hours, server monitoring and backups.
-- **[Voilà](https://github.com/einavtayari/voila-showcase).** A French verb-conjugation practice app.
+- **[Voilà](https://github.com/einavtayari/voila-showcase).** A French practice app that remembers what you get wrong.
+- **[Muse](https://github.com/einavtayari/muse-showcase).** A personal stylist app that turns my saved outfits, my measurements and the day's weather into what to wear today.
 
-And more in the making, including a personal styling app that is still at the design stage.
+And more in the making.
 
 These projects are private, and so are my repositories: they hold deeply personal things, solutions shaped around one person. What I'd love to learn from other builders is how to take the next step and turn a personal solution into one that helps a whole community. Meanwhile, I'm glad to walk through the architecture, the prompts and the agent setup live, in a demo or a conversation.
 
