@@ -29,7 +29,7 @@ The scope of my projects is wide and keeps changing. As a taste, here is a glimp
 - **[Pulse](https://github.com/einavtayari/pulse-showcase).** Three AI advisors for nutrition and training, in one Telegram chat, working from my real numbers.
 - **[Eevee](https://github.com/einavtayari/eevee-showcase).** A personal assistant on Telegram that grew into a deputy agent, with autonomy rules, quiet hours, server monitoring and backups.
 - **[Voilà](https://github.com/einavtayari/voila-showcase).** A French practice app that remembers what you get wrong.
-- **[Muse](https://github.com/einavtayari/muse-showcase).** A personal stylist app that turns my saved outfits, my measurements and the day's weather into what to wear today.
+- **[Muse](https://github.com/einavtayari/muse-showcase).** A personal stylist app that turns my saved outfits, my measurements and my inspiration look book into what to wear today.
 
 And more in the making.
 
